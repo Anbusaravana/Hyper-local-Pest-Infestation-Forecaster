@@ -1,10 +1,10 @@
-# 📈 Demand Forecasting & 📦 Inventory Optimization (SARIMA + Streamlit)
+# Hyper-local-Pest-Infestation-Forecaster (SARIMA + Streamlit)
 
 This project is a **Streamlit-based web application** that performs **demand forecasting** using the **SARIMA (Seasonal ARIMA)** model and applies **inventory optimization techniques** to recommend safety stock, reorder point, minimum order quantity, and suggested order quantity.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **CSV Upload**  
   Upload your dataset with columns like `Date`, `Demand`, and optionally `Inventory`.
@@ -37,7 +37,7 @@ This project is a **Streamlit-based web application** that performs **demand for
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
    ```bash
