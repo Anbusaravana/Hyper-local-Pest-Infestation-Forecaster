@@ -1,4 +1,4 @@
-# Hyper-local-Pest-Infestation-Forecaster (SARIMA + Streamlit)
+# demand_forecasting_deployment (SARIMA + Streamlit)
 
 This project is a **Streamlit-based web application** that performs **demand forecasting** using the **SARIMA (Seasonal ARIMA)** model and applies **inventory optimization techniques** to recommend safety stock, reorder point, minimum order quantity, and suggested order quantity.
 
